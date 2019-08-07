@@ -1,0 +1,15 @@
+html,
+body {
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin-top: 2rem;
+}
+
+
+
